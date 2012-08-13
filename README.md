@@ -13,7 +13,7 @@ This is a pure javascript implimentation of thw twitters search. Albeit with the
 ## Work in progress
 
 - Optimizing the speed.
-- Working on a demo site with support for more parameter
+- Working on a demo site with support for more parameter. Will be up soon.
 
 In case of any issues drop me a note 
 
